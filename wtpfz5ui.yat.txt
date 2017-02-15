@@ -1,0 +1,37 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   1. two_sum.cpp
+#	new file:   100. Same Tree.cpp
+#	new file:   14. Longest Common Prefix.cpp
+#	new file:   19. Remove Nth Node From End of List.cpp
+#	new file:   2. add_two_numbers.cpp
+#	new file:   20. Valid Parentheses.cpp
+#	new file:   21. Merge Two Sorted Lists.cpp
+#	new file:   22. Generate Parentheses.cpp
+#	new file:   24. Swap Nodes in Pairs.cpp
+#	new file:   26. Remove Duplicates from Sorted Array.cpp
+#	new file:   27. Remove Element.cpp
+#	new file:   28. Implement strStr().cpp
+#	new file:   35. Search Insert Position.cpp
+#	new file:   46. Permutations.cpp
+#	new file:   47. Permutations II.cpp
+#	new file:   58. Length of Last Word.cpp
+#	new file:   6. ZigZag_Conversion.cpp
+#	new file:   66. Plus One.cpp
+#	new file:   67. Add Binary.cpp
+#	new file:   7. Reverse_Integer.cpp
+#	new file:   71. Simplify Path.cpp
+#	new file:   8. String to Integer (atoi).cpp
+#	new file:   80. Remove Duplicates from Sorted Array II.cpp
+#	new file:   83. Remove Duplicates from Sorted List.cpp
+#	new file:   88. Merge Sorted Array.cpp
+#	new file:   9. Palindrome Number.cpp
+#	new file:   94. Binary Tree Inorder Traversal.cpp
+#
+
